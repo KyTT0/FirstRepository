@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<
-# FirstRepository комм=======
+# FirstRepository комментарий
 # FirstRepository просмотр коммента
 >
 =======

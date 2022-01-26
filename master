@@ -4,11 +4,11 @@ git add README.md
 git commit -m "first commit" 
 git branch -M main 
 git remote add origin https://github.com/KyTT0/FirstRepository.git
-<<<<<<< HEAD
+<<<<
  git push - ты главный просмотр коммента и выполнение работы=====
  git push - ты главный просмотр изменений
  и выполнение работы
  отчет
-=======
+
  git push - ты главный просмотр коммента
->>>>>>> parent of 58b3369 (Update master)
+'git add/rm <file
