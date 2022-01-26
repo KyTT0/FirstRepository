@@ -8,3 +8,4 @@ git remote add origin https://github.com/KyTT0/FirstRepository.git
  git push - ты главный просмотр изменений
  и выполнение работы
  отчет
+'git add/rm <file>'
